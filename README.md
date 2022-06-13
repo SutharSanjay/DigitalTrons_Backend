@@ -1,4 +1,4 @@
 
-Download Zip or Clone Project 
-run npm i or npm install
+Download Zip or Clone Project  <br />
+run npm i or npm install <br />
 start project npm start
